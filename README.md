@@ -1,1 +1,1 @@
-# AI
+# An ai tool
